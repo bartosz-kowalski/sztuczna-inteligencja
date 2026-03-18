@@ -1,2 +1,2 @@
-# sztuczna-inteligencja
+# Sztuczna inteligencja
 Couple of simple projects for my aritificial intelligence classes
